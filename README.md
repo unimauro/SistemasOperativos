@@ -4,7 +4,48 @@ Curso de Sistemas Operativos
 
 ## Diapostivas del Curso de Sistemas Operativos 2015 Facultad de Ingeniería Industrial y de Sistemas UNI
 
-1
+1 26 days ago
+ST234_01 Gestion de ES.pptx
+Enviando Archivos
+26 days ago
+ST324_01 Sistemas Operativos T05.ppt
+Enviando Archivos
+26 days ago
+ST324_01 Sistemas Operativos T14.ppt
+Enviando Archivos
+26 days ago
+ST324_01Funciones.ppt
+Enviando Archivos
+26 days ago
+ST324_02Control_Procesos.ppt
+Enviando Archivos
+26 days ago
+ST324_03Planificacion_Procesos.ppt
+Enviando Archivos
+26 days ago
+ST324_04Concurrencia_Procesos.ppt
+Enviando Archivos
+26 days ago
+ST324_05Interbloqueo_Procesos.ppt
+Enviando Archivos
+26 days ago
+ST324_06Gestion_Memoria.ppt
+Enviando Archivos
+26 days ago
+ST324_07Memoria_Virtual.ppt
+Enviando Archivos
+26 days ago
+ST324_08Dispositivos_ES.ppt
+Enviando Archivos
+26 days ago
+ST324_09Gestion_Archivos.ppt
+Enviando Archivos
+26 days ago
+ST324_10_Virtualizacion.ppt
+Enviando Archivos
+26 days ago
+ST324_Seguridad_Sistemas_Operativos.ppt
+Enviando Archi
 2
 3
 4
