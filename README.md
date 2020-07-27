@@ -1,13 +1,4 @@
 # SistemasOperativos
-No solution
-No solution
-No solution
-
-
-No solution
-No solution
-No solution
-
 
 Curso de Sistemas Operativos
 
