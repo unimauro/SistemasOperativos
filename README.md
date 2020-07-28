@@ -20,16 +20,12 @@ Enviando Archivos
 26 days ago
 ST324_03Planificacion_Procesos.ppt
 Enviando Archivos
-26 days ago
 ST324_04Concurrencia_Procesos.ppt
-Enviando Archivos
-26 days ago
+
 ST324_05Interbloqueo_Procesos.ppt
-Enviando Archivos
-26 days ago
+
 ST324_06Gestion_Memoria.ppt
-Enviando Archivos
-26 days ago
+
 ST324_07Memoria_Virtual.ppt
 Enviando Archivos
 26 days ago
