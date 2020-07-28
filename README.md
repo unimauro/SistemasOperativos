@@ -26,15 +26,18 @@ ST324_05Interbloqueo_Procesos.ppt
 
 ST324_06Gestion_Memoria.ppt
 
-ST324_07Memoria_Virtual.pptST324_08Dispositivos_ES.ppt
+ST324_07Memoria_Virtual.ppt
+
+ST324_08Dispositivos_ES.ppt
+
+
 ST324_09Gestion_Archivos.ppt
-Enviando Archivos
-26 days ago
+
 ST324_10_Virtualizacion.ppt
-Enviando Archivos
-26 days ago
+
+
 ST324_Seguridad_Sistemas_Operativos.ppt
-Enviando Archi
+
 2
 3
 4
