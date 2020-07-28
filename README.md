@@ -4,7 +4,6 @@ Curso de Sistemas Operativos
 
 ## Diapostivas del Curso de Sistemas Operativos 2015 Facultad de Ingeniería Industrial y de Sistemas UNI
 
-1 26 days ago
 ST234_01 Gestion de ES.pptx
 Enviando Archivos
 26 days ago
