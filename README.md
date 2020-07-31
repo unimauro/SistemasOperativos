@@ -16,8 +16,7 @@ ST324_01 Sistemas Operativos T14.ppt
 ST324_01Funciones.ppt
 
 ST324_02Control_Procesos.ppt
-Enviando Archivos
-26 days ago
+
 ST324_03Planificacion_Procesos.ppt
 Enviando Archivos
 ST324_04Concurrencia_Procesos.ppt
