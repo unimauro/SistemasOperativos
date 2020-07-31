@@ -30,6 +30,7 @@ ST324_07Memoria_Virtual.ppt
 
 ST324_08Dispositivos_ES.ppt
 
+plop
 
 ST324_09Gestion_Archivos.ppt
 
