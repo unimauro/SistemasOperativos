@@ -8,34 +8,18 @@ ST234_01 Gestion de ES.pptx
 
 
 Enviando Archivos
-
 ST324_01 Sistemas Operativos T05.ppt
-
 ST324_01 Sistemas Operativos T14.ppt
-
 ST324_01Funciones.ppt
-
 ST324_02Control_Procesos.ppt
-
 ST324_03Planificacion_Procesos.ppt
-Enviando Archivos
 ST324_04Concurrencia_Procesos.ppt
-
 ST324_05Interbloqueo_Procesos.ppt
-
 ST324_06Gestion_Memoria.ppt
-
 ST324_07Memoria_Virtual.ppt
-
 ST324_08Dispositivos_ES.ppt
-
-plop
-
 ST324_09Gestion_Archivos.ppt
-
 ST324_10_Virtualizacion.ppt
-
-
 ST324_Seguridad_Sistemas_Operativos.ppt
 
 
