@@ -21,7 +21,7 @@ ST324_08Dispositivos_ES.ppt
 ST324_09Gestion_Archivos.ppt
 ST324_10_Virtualizacion.ppt
 ST324_Seguridad_Sistemas_Operativos.ppt
-
+ok
 
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
 - 📫 How to reach me: carlos@cardenas.pe
