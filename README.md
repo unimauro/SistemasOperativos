@@ -6,22 +6,20 @@ OK
 
 ST234_01 Gestion de ES.pptx
 
-
-Enviando Archivos
-ST324_01 Sistemas Operativos T05.ppt
-ST324_01 Sistemas Operativos T14.ppt
-ST324_01Funciones.ppt
-ST324_02Control_Procesos.ppt
-ST324_03Planificacion_Procesos.ppt
-ST324_04Concurrencia_Procesos.ppt
-ST324_05Interbloqueo_Procesos.ppt
-ST324_06Gestion_Memoria.ppt
-ST324_07Memoria_Virtual.ppt
-ST324_08Dispositivos_ES.ppt
-ST324_09Gestion_Archivos.ppt
-ST324_10_Virtualizacion.ppt
-ST324_Seguridad_Sistemas_Operativos.ppt
-ok
+<ul>
+<li>ST324_01 Sistemas Operativos T05.ppt</li>
+<li>ST324_01 Funciones.ppt</li>
+<li>ST324_02 Control_Procesos.ppt</li>
+<li>ST324_03 Planificacion_Procesos.ppt</li>
+<li>ST324_04 Concurrencia_Procesos.ppt</li>
+<li>ST324_05 Interbloqueo_Procesos.ppt</li>
+<li>ST324_06 Gestion_Memoria.ppt</li>
+<li>ST324_07 Memoria_Virtual.ppt</li>
+<li>ST324_08 Dispositivos_ES.ppt</li>
+<li>ST324_09 Gestion_Archivos.ppt</li>
+<li>ST324_10 Virtualizacion.ppt</li>
+<li>ST324_11 Seguridad_Sistemas_Operativos.ppt</li>
+</ul>
 
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
 - 📫 How to reach me: carlos@cardenas.pe
